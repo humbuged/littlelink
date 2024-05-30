@@ -207,6 +207,10 @@ ol {
 
 /* Misc
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
+.h3-spacing {
+  margin-top: 3rem;
+}
+
 .openStatus {
   color: #009900;
   font-weight: bold;
