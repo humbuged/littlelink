@@ -125,6 +125,17 @@ button:hover,
   filter: brightness(90%);
 }
 
+/* Default Green */
+.button.button-defaultgn {
+  color: #ffffff;
+  background-color: #009900;
+  border: 0px solid #ffffff;
+}
+.button.button-defaultgn:hover,
+.button.button-defaultgn:focus {
+  filter: brightness(90%);
+}
+
 /* Default BW */
 .button.button-defaultbw {
   color: #ffffff;
