@@ -279,7 +279,11 @@ hr {
   height: 90px;
   object-fit: cover;
   background-position: center;
-  border-radius: 20%;
+  border-radius: 100%;
+}
+
+.made-with {
+  font-size: 14px;
 }
 
 /* open-sans-regular - vietnamese_latin-ext_latin_hebrew_greek-ext_greek_cyrillic-ext_cyrillic */
